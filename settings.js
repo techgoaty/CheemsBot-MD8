@@ -21,11 +21,11 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
-global.owner = ['916909137213'] //ur owner number
-global.ownernomer = "916909137213" //ur owner number2
-global.ownername = "🦄Dream Guy Xeon" //ur owner name
-global.ytname = "YT: Xeon" //ur yt chanel name
-global.socialm = "GitHub: DGXeon" //ur github or insta name
+global.owner = [2348118820641'] //ur owner number
+global.ownernomer = "2348118820641" // owner number2
+global.ownername = "🦄 Anonymous" //ur owner name
+global.ytname = "YT: techgoat" //ur yt chanel name
+global.socialm = "GitHub: techgoaty" //ur github or insta name
 global.location = "India, Mizoram, Aizawl" //ur location
 
 //new
@@ -35,7 +35,7 @@ global.ownername = '🦄드림 가이 Xeon'
 global.ownerNumber = ["916909137213@s.whatsapp.net"]
 global.ownerweb = "https://youtube.com/@DGXeon"
 global.websitex = "https://youtu.be/L_SIk59QeAU"
-global.wagc = "https://chat.whatsapp.com/Dc2qyVeK8JbJq8Gr3U1pKH"
+global.wagc = "https://chat.whatsapp.com/B6hifgu7KbF0Y6hRg0mJAp"
 global.themeemoji = '🪀'
 global.wm = "Xeon Bot Inc."
 global.botscript = 'https://github.com/DGXeon/CheemsBot-MD6' //script link
